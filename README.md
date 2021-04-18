@@ -66,7 +66,7 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
 ## Current Status
-- 🔭 We are a team of hard working BTech students trying to improving :construction: our coding skills as well as utilize them to add some value to the society
+- 🔭 We are a team of hard working BTech students trying to improving :construction: our coding skills as well as utilize them to help Non-Profit Organizations 
 - 🌱 We are currently working towards helping NGOs to migrate online and increase their outreach
 - 💬 Ask us about anything , we are always happy to help and learn :wink:
 - 📫 How to reach us : Please refer to the **Contact Me** section :point_down: or the **Header** :point_up:
