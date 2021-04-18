@@ -16,7 +16,7 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 <!--defining python code section-->
 </p>
 
-![Solvable's Activity Graph](https://activity-graph.herokuapp.com/graph?username=x-solvable-x&theme=react-dark&hide_border=true&area=true)
+![Solvable's Activity Graph](https://activity-graph.herokuapp.com/graph?username=x-solvable-x&bg-color=white&hide_border=true&area=true)
 
 ## Who am I :point_down:?
 ```python
