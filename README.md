@@ -52,7 +52,7 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 
 # 
 
-![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=x-solvable-x&theme=buefy&show_icons=true)
+![Solvable's github stats](https://github-readme-stats.vercel.app/api?username=x-solvable-x&theme=buefy&show_icons=true)
 
 #
 
@@ -63,7 +63,7 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 
 #
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
-**For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
 ## Current Status
 - 🔭 I’m currently working on improving :construction: my coding skills
