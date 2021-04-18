@@ -74,10 +74,13 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 
 ## Contact Us
 Have a Project ? Think we can contribute ? Need some help ?
+<!--buffer-->
 Feel free to shoot a mail to : **[solvable.06@gmail.com](mailto:solvable.06@gmail.com)**
+<!--buffer-->
 Please do provide us some time to get back to you. In most cases we respond within 24-48 hrs .
 You can also contact us via Instagram. Please do help us by following our Instagram handle . It keeps us motivated and helps us to be committed towards providing free and quality technical services . . .
-All the required links and community invites can be found at the header section of this ReadMe
+<!--buffer-->
+All the required links and community invites can be found at the header section of this ReadMe . Thank you and stay safe 😄
 
 :copyright: ReadMe Designed by Ansh Sarkar a.k.a SeraphimCoder
 
