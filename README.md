@@ -72,16 +72,12 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 - 💬 Ask me about anything , always happy to help :wink:
 - 📫 How to reach me: Please refer to the **Contact Me** section :point_down: or the **Header** :point_up:
 
-## Contributions :file_folder:
-1. If you think that any of my repositories :mailbox_with_mail: could be better please feel free to raise an Issue :hand: or let me know via email :email:.
-2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
-3. Please do not spam :x:.
-
-## Contact Me 
-Have a Project ? Think I can contribute ? Need some help ?
-Feel free to shoot a mail to : **anshsarkar18@gmail.**
-Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
-You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
+## Contact Us
+Have a Project ? Think we can contribute ? Need some help ?
+Feel free to shoot a mail to : **[solvable.06@gmail.com](mailto:solvable.06@gmail.com)**
+Please do provide us some time to get back to you. In most cases we respond within 24-48 hrs .
+You can also contact us via Instagram. Please do help us by following our Instagram handle . It keeps us motivated and helps us to be committed towards providing free and quality technical services . . .
+All the required links and community invites can be found at the header section of this ReadMe
 
 :copyright: ReadMe Designed by Ansh Sarkar a.k.a SeraphimCoder
 
