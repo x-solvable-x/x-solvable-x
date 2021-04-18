@@ -18,37 +18,35 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 
 ![Solvable's Activity Graph](https://activity-graph.herokuapp.com/graph?username=x-solvable-x&bg-color=white&hide_border=true&area=true)
 
-## Who am I :point_down:?
+## Who are we :point_down: ?
 ```python
- from Ansh_Sarkar import personal_details
- # from Ansh_Personal import personal_ambitions
- class WhoAmI:
+ from Solvable import details
+ # from solvable_Personal import personal_ambitions
+ class WhoAreWe:
  	name = 'Ansh Sarkar'
 	current_education = "B.Tech CSE"
 	hobbies = [
-				'Drawing',
-				'Watching Sci-Fi',
-				'Reading Sci-Fi Novels',
-				'Learning New Programming Languages or Frameworks',
-        			'Making friends ...'
+				'Making Websites',
+				'Helping NGOs migrate online',
+				'Providing other technical assistance to NGOs',
+				'Learning New Programming Languages and Frameworks',
+        			'Networking',
+				'Instagram Marketing',
+				'etc . . .'
 			]
 			
-	# return city name ...
-	def getCity():
-		retrun Siliguri_WestBengal_India_Asia_Earth()
+	# return college name ...
+	def getCollege():
+		retrun "Kalinga Institute of Industrial Technology (KIIT) , Bhubaneswar"
 		
 	# return public ambitions ...
 	def Ambitions():
-		Become_A_Billionaire()
-		Create_An_Ironman_Suit()
+		Help_100_NGOs_to_migrate_online()
+		Provide_free_yet_quality_services()
 		Be_The_Best()
-		# private_ambitions out of scope :-)
+		# private_ambitions access denied :-)
 	
 ```
-
-<!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
-<!--![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&count_private=true)--><!--NoIcons-->
-<!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
 
 # 
 
@@ -56,15 +54,12 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 
 #
 
-<!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
 <img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
 ## Current Status
 - 🔭 We are a team of hard working BTech students trying to improving :construction: our coding skills as well as utilize them to help Non-Profit Organizations 
 - 🌱 We are currently working towards helping NGOs to migrate online and increase their outreach
