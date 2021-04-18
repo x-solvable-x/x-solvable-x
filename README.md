@@ -12,7 +12,7 @@
 **Team LinkedIn accounts :** [Ansh-Sarkar](https://www.linkedin.com/in/ansh-sarkar/)
 ## Welcome to our World :earth_asia: . . .
 <p align="justify">
-With the onset of the Covid 19 pandemic :worried: , people have been forced to stay indoors :house: for their own safety as well as to prevent the virus from spreading . This has been a huge setback to all those NGOs :family: which used to rely heavily on physical modes of communication :mega: in order to spread awareness about the cause they fight for :muscle: . We know that technical assistance :computer: required to bring an organization online , is pretty costly :moneybag: . Hence we at Solvable are commited to try and solve these technical challenges and help NGOs gain an online presence . We provide this sevice for **free** so that NGOs can use their resources for the noble cause they fight for :gem: .
+With the onset of the Covid 19 pandemic :worried: , people have been forced to stay indoors :house: for their own safety as well as to prevent the virus from spreading . This has been a huge setback to all those NGOs :family: which used to rely heavily on physical modes of communication :mega: in order to spread awareness about the cause they fight for :muscle: . We know that technical assistance :computer: required to bring an organization online , is pretty costly :moneybag: . Hence we at Solvable are commited to try and solve these technical challenges and help NGOs gain an online presence . We provide this sevice for <strong>free</strong> so that NGOs can use their resources for the noble cause they fight for :gem: .
 <!--defining python code section-->
 </p>
 
@@ -59,7 +59,7 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 <!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
 <img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x-solvable-x&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
