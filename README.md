@@ -51,8 +51,6 @@ With the onset of the Covid 19 pandemic :worried: , people have been forced to s
 ![Solvable's github stats](https://github-readme-stats.vercel.app/api?username=x-solvable-x&theme=buefy&show_icons=true)
 
 #
-
-<img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
